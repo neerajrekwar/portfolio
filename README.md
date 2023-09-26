@@ -1,3 +1,5 @@
 # portfolio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-khujbi)
+[Instagram](https://instagram.com/uneerajrekwar)
+
+[linkedin](https://linkedin.com/in/neerajrekwar)
